@@ -1,0 +1,13 @@
+Products Table
+
+id //primary key
+name //required, string, max:100 >> varchar
+desc //required, string >> text
+price //required, numeric >> double
+img //required, string, max:100 >> varchar
+created_at //required, datetime
+
+
+product class >> all crud queries
+MySql class
+Admin class
